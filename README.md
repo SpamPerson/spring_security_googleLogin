@@ -1,6 +1,6 @@
 # spring_security_googleLogin
-This Project is spring boot security and Google Login(MVC).
-DB used Mysql.
+ 1. This project is an example of Spring Boot Security and Google Login.
+ 2. DB used Mysql.
 
 ## application.yml
 1. ddl-auto: create -> Change to update after running the project
